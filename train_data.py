@@ -28,6 +28,6 @@ model = models.Model(inputs=base_model.inputs, outputs=output)
 
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
-model.fit(train_generator, epochs=)
+model.fit(train_generator, epochs=10)
 
 model.save("face_data.h5")
