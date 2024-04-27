@@ -1,3 +1,5 @@
+#already Train data link is https://drive.google.com/file/d/1fEms6e-TH7nzoCoDTBwYq6Bs_JGuXvs2/view?usp=sharing
+
 import tensorflow as tf
 from tensorflow.keras import layers, models
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
