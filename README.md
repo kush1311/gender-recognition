@@ -7,8 +7,8 @@ This repository contains code for real-time gender recognition using face detect
 ## Requirements
 - Python 3.x
 - OpenCV
-- TensorFlow
-- Keras
+- TensorFlow 2.11.0
+- Keras 2.11.0
 
 ## Usage
 1. Clone the repository: `git clone https://github.com/kush1311/face-recognition`
